@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-ODIN (Optical Directed Energy Interception Network) is an advanced directed energy weapon system designed for precision targeting and engagement. The system utilizes multiple high-power fiber lasers with sophisticated beam control, alignment mechanisms, and advanced sensing capabilities to deliver concentrated energy to targets with unprecedented accuracy and effectiveness.
+ODIN (Optical Directed Energy Interception Network) is an advanced directed energy weapon system designed for precision targeting and engagement. The system utilizes multiple high-power fiber lasers with sophisticated beam control, alignment mechanisms, and advanced sensing capabilities to deliver concentrated energy to targets with unprecedented accuracy and effectiveness. This SDK provides a comprehensive set of tools for simulating, analyzing, and optimizing the performance of the ODIN system.
 
 ## Key Features
 
@@ -107,10 +107,6 @@ twin_sync.start()
 # Monitor system performance
 hardware.activate_monitoring()
 ```
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 

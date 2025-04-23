@@ -1,0 +1,7 @@
+ODIN: Optical Directed Energy Interception Network
+
+Intent Statement
+
+This project and its associated codebase are provided exclusively for educational and research purposes. The intent is to advance scientific understanding and support academic inquiry in the fields of optical directed energy systems, modeling, simulation, and advanced manufacturing. Any commercial use or redistribution of this software, in whole or in part, is strictly prohibited without explicit written permission from the copyright holder.
+
+Users are expected to respect these terms and acknowledge the proprietary nature of this work.
